@@ -1,0 +1,108 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.post{
+   
+    margin-top: 0%;
+    height: 600px;
+    width: 600px;
+    
+}
+.imagen1{
+    width: 30px;
+    height: 30px;
+  margin-top: 10px;
+   
+   
+  
+   }
+   .contenedor{
+       display: flex;
+       flex-direction: row;
+       justify-content: flex-end;
+        width: 100%;
+   }
+
+
+.fila1{
+    display: flex;
+   
+
+   
+
+    
+}
+.fran{
+   
+   
+    display: flex;
+    flex-direction: column;
+   
+    
+    
+   
+}
+.fila2{
+   
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   
+
+   
+   
+    
+    
+    
+
+}
+.imagenA{
+    width: 100%;
+    height: 300px;
+}
+
+
+.fila3{
+    display: flex;
+    flex-direction: row;
+}
+
+.mapa1{
+   width: 50px;
+}
+
+.mapa2{
+    width: 50px;
+    
+    
+}
+
+   
+.corazon{
+   font-size: 50px;
+}
+.simbolocomentario{
+    font-size: 50px;
+    
+}
+.contenedor1{
+    
+    width: 50%;
+}
+.bandera{
+    
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.parr{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.html{
+    font-size: 50px;
+}
